@@ -1,0 +1,1 @@
+This is a madlib I created in my class and I decided to use it form the repository for my practice on GitHub and atom. I will build more onto it each week in either python or C++ and possibly other languages as I come to learn them. 
